@@ -214,5 +214,5 @@ dmypy.json
 cython_debug/
 
 ### Custom Stuff
-config.json
 iconpacks
+packs
